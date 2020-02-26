@@ -1,0 +1,122 @@
+20 icons, 3 wheels
+different random rates for each wheel?
+win detection
+win options
+total
+cost to play
+
+What kind of object?
+Maybe each icon is an object? Containing win value, 
+
+state = {
+    conditions : {
+        mid: {
+            active: true
+        }
+        diagonal: {
+            cost: 3,
+            active: false
+        }
+        outers: {
+            cost: 5,
+            active: false
+        }
+    }
+    icons : {
+        1: {
+            image: 
+            value:
+        },
+        2: {
+            image: 
+            value:
+        },
+        3: {
+            image: 
+            value:
+        },
+        4: {
+            image: 
+            value:
+        },
+        5: {
+            image: 
+            value:
+        },
+        6: {
+            image: 
+            value:
+        },
+        7: {
+            image: 
+            value:
+        },
+        8: {
+            image: 
+            value:
+        },
+        9: {
+            image: 
+            value:
+        },
+        10: {
+            image: 
+            value:
+        },
+        11: {
+            image: 
+            value:
+        },
+        12: {
+            image: 
+            value:
+        },
+        13: {
+            image: 
+            value:
+        },
+        14: {
+            image: 
+            value:
+        },
+        15: {
+            image: 
+            value:
+        },
+        16: {
+            image: 
+            value:
+        },
+        17: {
+            image: 
+            value:
+        },
+        18: {
+            image: 
+            value:
+        },
+        19: {
+            image: 
+            value:
+        },
+        20: {
+            image: 
+            value:
+        },
+    },
+    first: {
+        top: icon,
+        mid: icon,
+        bot: icon
+    },
+    second: {
+        top: icon,
+        mid: icon,
+        bot: icon
+    },
+    third: {
+        top: icon,
+        mid: icon,
+        bot: icon
+    }
+}
